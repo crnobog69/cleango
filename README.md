@@ -11,7 +11,7 @@
 ```
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/crnobog69/cleango/main/clean-go.sh | bash
+curl -fsSL https://raw.githubusercontent.com/crnobog69/cleango/master/clean-go.sh | bash
 ```
 
 **Windows:**
@@ -21,7 +21,7 @@ curl -fsSL https://raw.githubusercontent.com/crnobog69/cleango/main/clean-go.sh 
 ```
 
 ```powershell
-irm https://raw.githubusercontent.com/crnobog69/cleango/main/clean-go.ps1 | iex
+irm https://raw.githubusercontent.com/crnobog69/cleango/master/clean-go.ps1 | iex
 ```
 
 ## Упозорење
