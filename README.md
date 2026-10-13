@@ -5,10 +5,16 @@
 ## Употреба
 
 **Linux:**
+
+```bash
 ./clean-go.sh
+```
 
 **Windows:**
+
+```powershell
 .\clean-go.ps1
+```
 
 ## Упозорење
 
